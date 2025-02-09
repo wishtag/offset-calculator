@@ -20,3 +20,7 @@ It calculates the difference and then gives you the adjusted frame that you shou
 So you go back to your game, reload to that savestate you hopefully created, and try and use sweet scent on this new frame.  
 ![5](img/5.png?raw=true)  
 And voilà you hit the encounter you were aiming for!
+
+Links
+=====
+PokéFinder: https://github.com/Admiral-Fish/PokeFinder
